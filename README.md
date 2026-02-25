@@ -1,2 +1,2 @@
-# rag
+# RAG
 RAG Udemy
